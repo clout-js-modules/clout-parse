@@ -1,0 +1,31 @@
+{
+  "name": "clout-parse",
+  "version": "0.0.3",
+  "description": "Clout module to leverage parse for models",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clout-js-modules/clout-parse.git"
+  },
+  "keywords": [
+    "clout",
+    "clout-js",
+    "module",
+    "parse",
+    "express"
+  ],
+  "author": "Muhammad Dadu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clout-js-modules/clout-parse/issues"
+  },
+  "homepage": "https://github.com/clout-js-modules/clout-parse#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "parse-server": "^2.2.17",
+    "q": "^1.4.1"
+  }
+}
